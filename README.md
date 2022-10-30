@@ -24,3 +24,4 @@
  ![Snake animation](https://github.com/matteorussobr/matteorussobr/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+[Matteo_Russo_Curriculo.1 (2).pdf](https://github.com/matteorussobr/matteorussobr/files/9895157/Matteo_Russo_Curriculo.1.2.pdf)
