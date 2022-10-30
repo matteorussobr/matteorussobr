@@ -20,9 +20,10 @@
 <div> 
   <a href="https://www.instagram.com/matteorusso_2205/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/matteo-russo22/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="Matteo Russo#0774" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"><a/> 
+ <a href="https://github.com/matteorussobr/matteorussobr/files/9895157/Matteo_Russo_Curriculo.1.2.pdf" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"><a/>
 
  ![Snake animation](https://github.com/matteorussobr/matteorussobr/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 <strong>Meu Portifólio<strong> https://github.com/matteorussobr/matteorussobr/files/9895157/Matteo_Russo_Curriculo.1.2.pdf
+
