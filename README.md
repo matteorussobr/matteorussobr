@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Matteo Russo
 
-- 🔭 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+- 🔭 Análise e Desenvolvimento de Sistemas (ADS)
 - 🏫 Una - Cristiano Machado (MG)
 - 📩 Contact Me - matteorussobr@gmail.com
 - 🌟 <strong>Simplesmente Viva</strong>
